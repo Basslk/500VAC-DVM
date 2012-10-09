@@ -1,0 +1,15 @@
+Creating   'DVM.eep'
+Creating   'DVM.obj'
+Creating   'DVM.lst'
+
+Assembling 'DVM.asm'
+Including  'DVM.vec'
+Including  'DVM.inc'
+
+Program memory usage:
+Code             :  980 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            :  981 words
+
+Assembly complete with no errors.
